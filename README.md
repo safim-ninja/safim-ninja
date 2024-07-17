@@ -1,8 +1,8 @@
 
 
 
-### Hello, I'm Md Amirul Islam
-#### Web Developer
+### Hello, I'm Safim
+#### Software Developer
 
 With a strong foundation in web development, I strive to create seamless and user-friendly experiences for the web. I am proficient in front-end technologies like HTML, CSS, and JavaScript, and have hands-on experience in using popular CSS frameworks like Tailwind and Bootstrap to build responsive and visually appealing web interfaces.
 
