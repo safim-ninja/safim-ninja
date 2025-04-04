@@ -35,9 +35,9 @@ Skills: Laravel / PHP / MySQL / React / Flutter / Dart / JavaScript / HTML / CSS
 - 💬 Ask me about Web & Mobile Development
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safim-ninja)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safim-ninja&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=safim-ninja&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=safim-ninja&show_icons=true&count_private=true&theme=tokyonight)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=safim-ninja)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=safim-ninja&theme=tokyonight)
 
